@@ -13,9 +13,9 @@ Project structure:
         2.	font.js – font styles like size, weight 
         3.	palette.js – All the colors that we are using in the App
         4.	strings.js – all the strings of the App
-
-      Screens: Js that holds UI of full screen.
+      Screens: Js that holds UI of full screen.      
       Utils: dateFormatHelper.js > accepts date and returns formatted
+
 •	Assets:  Contains icons used in the project
 
 
